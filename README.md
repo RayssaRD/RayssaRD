@@ -1,11 +1,11 @@
 <h1>💕 Hello, Everybody ! </h1>
 
 
-<h2>Meu nome é Rayssa Reis Duarte, sou estudante de Desenvolvimentos de Sistemas, mãe de pet e católica!</h2>
-<h3> Sejam Bem vindos!👩‍💻🐶⛪  </h3>
+Meu nome é Rayssa Reis Duarte, sou estudante de Desenvolvimentos de Sistemas, mãe de pet e católica!
+<p>Sejam Bem vindos!👩‍💻🐶⛪  </p>
 
 <h2>My name is Rayssa Reis Duarte, i'm studying systems development, a "mother" of pets and a Catolic girl!</h2>
-<h3> We're Welcome! 👩‍💻🐶⛪ </h3>
+<p> We're Welcome! 👩‍💻🐶⛪ </p>
 
 
 
