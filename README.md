@@ -10,7 +10,7 @@ My name is Rayssa Reis Duarte, i'm studying systems development, a "mother" of p
 
 
 
-
+<br>
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaRD&layout=compact&count_private=true)
