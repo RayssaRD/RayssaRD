@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" width="30"/> Hello, Everybody ! </h1>
+<h1>💕  Hello, Everybody ! </h1>
 ========================================================================================
 
 My name is Rayssa Reis Duarte. 👩‍💻
