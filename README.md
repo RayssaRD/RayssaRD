@@ -22,5 +22,4 @@ My name is Rayssa Reis Duarte, i'm studying systems development, a "mother" of p
   <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
 
 
-  <a href="mailto:rayssard2005@yahoo.com">![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
-/a>
+  <a href="mailto:rayssard2005@yahoo.com">![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)</a>
