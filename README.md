@@ -1,5 +1,5 @@
 <h1>💕 Hello, Everybody ! </h1>
-========================================================================================
+
 
 Meu nome é Rayssa Reis Duarte, sou estudante de Desenvolvimentos de Sistemas, mãe de pet e católica!
 <h2> Sejam Bem vindos!👩‍💻🐶⛪   </h2>
