@@ -6,7 +6,7 @@ Meu nome é Rayssa Reis Duarte, sou estudante de Desenvolvimentos de Sistemas, m
 
 My name is Rayssa Reis Duarte, i'm studying systems development, a "mother" of pets and a Catolic girl!
 <h2> We're Welcome! 👩‍💻🐶⛪ </h2>
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
+
 
 
 
