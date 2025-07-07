@@ -2,11 +2,10 @@
 ========================================================================================
 
 Meu nome é Rayssa Reis Duarte, sou estudante de Desenvolvimentos de Sistemas, mãe de pet e católica!
-Sejam Bem vindos!👩‍💻🐶⛪
+<h2> Sejam Bem vindos!👩‍💻🐶⛪   </h2>
 
 My name is Rayssa Reis Duarte, i'm studying systems development, a "mother" of pets and a Catolic girl!
-Welcome! 👩‍💻🐶⛪
-
+<h2> We're Welcome! 👩‍💻🐶⛪ </h2>
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
 
 
