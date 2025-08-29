@@ -4,7 +4,7 @@
 Meu nome é Rayssa Reis Duarte, sou estudante de Desenvolvimentos de Sistemas, mãe de pet e católica!
 <p>Sejam Bem vindos!👩‍💻🐶⛪  </p>
 
-My name is Rayssa Reis Duarte, I'm studying systems development, a "mother" of pets and a Catolic girl!
+My name is Rayssa Reis Duarte, I'm studying systems development, a "mother" of pets and a Catholic girl!
 <p> We're Welcome! 👩‍💻🐶⛪ </p>
 
 
